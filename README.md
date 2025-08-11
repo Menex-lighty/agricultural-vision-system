@@ -417,11 +417,11 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 **🧑‍💻 Lead Developer**  
 **Rishabh Sinha** - Vision System Architect & AI Engineer  
 📧 **Email**: rishabhsinha1712@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/rishabh-sinha](https://linkedin.com/in/rishabh-sinha)  
+🔗 **LinkedIn**: [linkedin.com/in/rishabh-sinha](www.linkedin.com/in/rishabh-sinha-b79b11229)  
 💼 **GitHub**: [github.com/Menex-lighty](https://github.com/Menex-lighty)
 
 **🏆 Project Recognition**  
-TIFAN 2025 Winner | Agricultural Innovation Challenge  
+TIFAN 2025 4th Place | Agricultural Innovation Challenge  
 SAE India | Ministry of Agriculture Endorsed
 
 **📧 Business Inquiries**: rishabhsinha1712@gmail.com  
@@ -431,8 +431,7 @@ SAE India | Ministry of Agriculture Endorsed
 ## 🙏 Acknowledgments
 
 - **TIFAN 2025** - SAE India Agricultural Innovation Challenge Platform
-- **SRIJAN 2025** - Rural Technology Innovation Competition
-- **IITI Drishti CPS Foundation** - Technical guidance and research support
+- **SRIJAN 2025** - Student Technology Innovation Competition
 - **Agricultural Community** - Real-world testing and invaluable feedback
 - **Open Source Community** - Tools and frameworks that made this possible
 
