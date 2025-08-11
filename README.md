@@ -22,7 +22,6 @@ Complete **end-to-end agricultural monitoring system** combining computer vision
 - **🥉 3rd Place SRIJAN 2025** - Rural Technology Category  
 - **📈 95% Detection Accuracy** - Real-time plant classification
 - **⚡ 40% Error Reduction** - Measurable improvement in planting precision
-- **🌟 Featured** - India Smart City Conclave (ISAC) Smart Street Showcase
 
 ## 🚀 System Architecture
 
