@@ -1,9 +1,9 @@
 # 🌱 AI-Powered Agricultural Monitoring System
-**TIFAN 2025 Winner - Budding Team Award | 3rd Place SRIJAN 2025**
+**TIFAN 2025 4th Place | 3rd Place SRIJAN 2025**
 
 <div align="center">
 
-![Agricultural Vision System](https://img.shields.io/badge/TIFAN_2025-Winner-gold?style=for-the-badge)
+![Agricultural Vision System](https://img.shields.io/badge/TIFAN_2025-4th_Place-silver?style=for-the-badge)
 ![Detection Accuracy](https://img.shields.io/badge/Accuracy-95%25-green?style=for-the-badge)
 ![Error Reduction](https://img.shields.io/badge/Error_Reduction-40%25-blue?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Full_Stack-Python%20%7C%20Flutter%20%7C%20AI-orange?style=for-the-badge)
@@ -18,7 +18,7 @@ Complete **end-to-end agricultural monitoring system** combining computer vision
 
 ## 🏆 Achievements & Recognition
 
-- **🥇 TIFAN 2025 Budding Team Award** - SAE India Agricultural Innovation Challenge
+- **🏅 4th Place TIFAN 2025** - SAE India Agricultural Innovation Challenge
 - **🥉 3rd Place SRIJAN 2025** - Rural Technology Category  
 - **📈 95% Detection Accuracy** - Real-time plant classification
 - **⚡ 40% Error Reduction** - Measurable improvement in planting precision
@@ -327,7 +327,7 @@ Resets system with 20 sample saplings
 ## 🏆 Competition Recognition
 
 ### **TIFAN 2025 (SAE India Agricultural Innovation)**
-- **🥇 Budding Team Award** - Outstanding innovation in agricultural technology
+- **🏅 4th Place** - Strong performance among top agricultural technology innovations
 - **Technical Excellence** - Recognized for AI/ML implementation quality
 - **Real-world Impact** - Demonstrated 40% improvement in planting accuracy
 - **Industry Validation** - Acknowledged by agricultural technology experts
