@@ -338,8 +338,7 @@ Resets system with 20 sample saplings
 - **Technology Transfer** - Potential for widespread agricultural adoption
 
 ### **Industry Recognition**
-- **Featured Showcase** - India Smart City Conclave (ISAC) Smart Street
-- **Media Coverage** - Agricultural technology publications
+- **Media Coverage** - Newspapers
 - **Academic Interest** - Research collaboration opportunities
 
 ## 🔧 Installation & Troubleshooting
